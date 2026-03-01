@@ -81,7 +81,7 @@
 
 ### 🏆 Achievements
 
-- 🧩 **TryHackMe:** Pre-Security Certificate *(in progress)*  
+- 🧩 **TryHackMe:** Pre-Security Certificate  
 - 🥇 **Cybersecurity Challenges:** Active participant on TryHackMe  
 - 🎓 **University Projects:** Coding Practice: Solving DSA problems on HackerRank to strengthen algorithms and logic skills.
 
