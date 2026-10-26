@@ -156,11 +156,11 @@ I enjoy exploring how systems fail, building tools to identify weaknesses, and l
 ### 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizeen4&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <i>Consistency over intensity. Keep building. Keep learning.</i>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=faizeen4&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 </p>
 
 ---
@@ -176,12 +176,14 @@ I enjoy exploring how systems fail, building tools to identify weaknesses, and l
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=100&section=footer" width="100%" alt="Footer banner" />
-</p>
+---
 
 <p align="center">
   <b>🔐 Build. Break. Learn. Secure.</b>
   <br/>
   <sub>Let's connect and make systems more secure.</sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faizeen4&label=PROFILE%20VIEWS&color=7aa2f7&style=flat-square" alt="Profile views" />
 </p>
