@@ -165,29 +165,21 @@
 
 ## 📅 Contribution Activity
 
-### 📅 Contribution Activity
-
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/0D1117/7AA2F7/faizeen4"
-    alt="GitHub contribution calendar"
-    width="100%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/faizeen4/faizeen4/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/faizeen4/faizeen4/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution calendar animation"
+      src="https://raw.githubusercontent.com/faizeen4/faizeen4/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
 </p>
 
 <p align="center">
   <i>Consistency over intensity. Keep building. Keep learning.</i>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faizeen4/faizeen4/output/github-snake-dark.svg" alt="Animated GitHub contribution snake"/>
-</p>
-
----
 
 <p align="center">
   <b>🔐 Build. Break. Learn. Secure.</b>
