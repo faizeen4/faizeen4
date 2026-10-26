@@ -178,10 +178,6 @@
 </p>
 
 <p align="center">
-  <i>Consistency over intensity. Keep building. Keep learning.</i>
-</p>
-
-<p align="center">
   <b>🔐 Build. Break. Learn. Secure.</b>
   <br/>
   <sub>Let's connect and make systems more secure.</sub>
