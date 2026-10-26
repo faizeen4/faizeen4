@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/faizeen-dilshad-1179aa314">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/faizeen">
+  <a href="https://tryhackme.com/p/maomao4">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-FF5555?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   <a href="mailto:faizeen.dilshad@gmail.com">
