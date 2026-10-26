@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/faizeen-dilshad-1179aa314">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://tryhackme.com/p/faizeen">
+  <a href="https://tryhackme.com/p/maomao4">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
   <a href="mailto:faizeen.dilshad@gmail.com">
@@ -165,8 +165,14 @@
 
 ## 📅 Contribution Activity
 
+### 📅 Contribution Activity
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/7AA2F7/faizeen4" alt="Daily GitHub contributions shown as a green contribution calendar" width="100%"/>
+  <img
+    src="https://ghchart.rshah.org/0D1117/7AA2F7/faizeen4"
+    alt="GitHub contribution calendar"
+    width="100%"
+  />
 </p>
 
 <p align="center">
