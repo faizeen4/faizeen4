@@ -163,20 +163,6 @@
 
 ---
 
-## 📅 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/faizeen4"
-    alt="GitHub daily contribution calendar"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <i>Consistency over intensity. Keep building. Keep learning.</i>
-</p>
-
 <p align="center">
   <b>🔐 Build. Break. Learn. Secure.</b>
   <br/>
